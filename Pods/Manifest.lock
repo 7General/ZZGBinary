@@ -1,0 +1,16 @@
+PODS:
+  - TTBinary (1.0)
+
+DEPENDENCIES:
+  - TTBinary (from `./TTBinary`)
+
+EXTERNAL SOURCES:
+  TTBinary:
+    :path: "./TTBinary"
+
+SPEC CHECKSUMS:
+  TTBinary: fade20fe203522f9662c5558ef9f0c73f8833f01
+
+PODFILE CHECKSUM: d901490417abaf5fe78222385c9b13633e5acbba
+
+COCOAPODS: 1.9.1

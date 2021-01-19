@@ -1,0 +1,25 @@
+{
+  "name": "TTBinary",
+  "version": "1.0",
+  "summary": "TTBinary二进制",
+  "description": "TTBinary二进制",
+  "homepage": "http://git.guazi-corp.com/",
+  "license": "private",
+  "authors": {
+    "zx": "zhux@gi.com"
+  },
+  "source": {
+    "git": ".",
+    "tag": "1.0"
+  },
+  "source_files": [
+    "TTBinary",
+    "TTBinary/**/*.{h,m}"
+  ],
+  "platforms": {
+    "ios": "9.0"
+  },
+  "pod_target_xcconfig": {
+    "USE_HEADERMAP": false
+  }
+}
